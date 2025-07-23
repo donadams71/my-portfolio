@@ -1,1 +1,1 @@
-Visit my portfolio site here:  https://github.com/donadams71/my-portfolio.git
+Visit my portfolio site here:  https://donadams71.github.io/my-portfolio/
